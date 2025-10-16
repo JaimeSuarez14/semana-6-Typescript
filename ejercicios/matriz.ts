@@ -5,7 +5,7 @@ class Estudiante {
 
 const listaEstudiantes: Estudiante[]= [
   {nombre: "Jaime", notas: [ 20 ,19 , 20]},
-  {nombre: "Pedro", notas: [ 20 ,19 , 20]},
+  {nombre: "Pedro", notas: [ 5 ,19 , 20]},
   {nombre: "Jacinto", notas: [ 15 ,15 , 12]},
 ]
 
